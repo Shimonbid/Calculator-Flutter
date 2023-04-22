@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
 
-//run app
+//run app (git)
 void main() {
   runApp(Calculator());
 }
