@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wearableApp package="com.example.mywearapp"
+             name="My Wear App"
+             appIcon="@drawable/ic_launcher"
+             category="other" />
